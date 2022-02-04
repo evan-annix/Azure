@@ -6,7 +6,7 @@
 ######################################33
 
 #Variables
-$regionalsettingsURL = "PRIVATE URL"
+$regionalsettingsURL = "https://raw.githubusercontent.com/evan-annix/Azure/master/101-ServerBuild/GBRegion.xml"
 $RegionalSettings = "X:\GBRegion.xml"
 
 
